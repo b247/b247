@@ -7,7 +7,7 @@
         "type": "image/png"
       }],
   "theme_color": "#532f35",
-  "start_url": "/",  
+  "start_url": "https://www.b247.eu.org/",  
   "display": "standalone",
   "gcm_sender_id": "300013155679",
   "gcm_user_visible_only": true
