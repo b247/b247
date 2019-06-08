@@ -21,6 +21,6 @@
     "externally_connectable": {
         "matches": [
           "https://*.b247.eu.org/*",
-        ],
+        ]
     }
 }
