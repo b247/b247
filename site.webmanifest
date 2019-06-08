@@ -1,8 +1,8 @@
 {
     "name": "b247.eu.org",
     "short_name": "b247.eu.org",
-    "start_url": "./"
-    "scope": "."
+    "start_url": "./",
+    "scope": ".",
     "icons": [
         {
             "src": "https://4.bp.blogspot.com/-ZcRG3qphGko/W8HlVFw0_yI/AAAAAAAAA1E/cHFsGt2NzLUjsFkHrUcewSuJ-uOfvbCggCLcBGAs/s1600/android-chrome-192x192.png",
