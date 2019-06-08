@@ -3,7 +3,7 @@
     <head>
         <title>installing service worker</title>
         <script type="text/javascript">
-            var swsource = "https://github.b247.eu.org/sw.js";
+            var swsource = "https://github.b247.eu.org/sw.js?v=2.0";
             if("serviceWorker" in navigator) {
                 navigator.serviceWorker.register(swsource).then(function(reg){
                     console.log('ServiceWorker scope: ', reg.scope);
