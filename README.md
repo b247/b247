@@ -1,1 +1,2 @@
-# Some project files used in b247.eu.org;  alias: github.b247.eu.org
+# github.b247.eu.org
+b247.eu.org
