@@ -17,10 +17,5 @@
     ],
     "theme_color": "#574f4a",
     "background_color": "#ffffff",
-    "display": "standalone",
-    "externally_connectable": {
-        "matches": [
-          "https://*.b247.eu.org/*"
-        ]
-    }
+    "display": "standalone"
 }
