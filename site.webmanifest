@@ -20,7 +20,7 @@
     "display": "standalone",
     "externally_connectable": {
         "matches": [
-          "https://*.b247.eu.org/*",
+          "https://*.b247.eu.org/*"
         ]
     }
 }
