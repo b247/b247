@@ -23,8 +23,12 @@
 
   <div submit-success>
     <template type="amp-mustache">
-      <br/>Next page token is {{nextPageToken}}<br/>
-
+      <br/>Next page token is {{#nextPageToken}}<br/>
+      {{#items}}
+          <span>{{title}}</span><br/>
+          <span>{{url}}</span><br/>
+          <span>{{published}}</span><br/>
+      {{/items}}
     </template>
   </div>
 
