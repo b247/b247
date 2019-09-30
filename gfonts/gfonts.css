@@ -5,6 +5,7 @@
   font-weight: 300;
   src: local('Merriweather Sans Light'), local('MerriweatherSans-Light'), url(https://github.b247.eu.org/gfonts/merriweathersans/2-c49IRs1JiJN1FRAMjTN5zd9vgsFH1eYCDE0hY.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-display: swap;
 }
 
 /* latin */
@@ -14,6 +15,7 @@
   font-weight: 700;
   src: local('Merriweather Sans Bold'), local('MerriweatherSans-Bold'), url(https://github.b247.eu.org/gfonts/merriweathersans/2-c49IRs1JiJN1FRAMjTN5zd9vgsFH1OZyDE0hY.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-display: swap;
 }
 
 /* latin */
@@ -23,6 +25,7 @@
   font-weight: 600;
   src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://github.b247.eu.org/gfonts/opensans/mem5YaGs126MiZpBA-UNirkOUuhp.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-display: swap;
 }
 
 /* fallback */
@@ -31,6 +34,7 @@
   font-style: normal;
   font-weight: 400;
   src: url(https://github.b247.eu.org/gfonts/materialicons/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2) format('woff2');
+  font-display: swap;
 }
 
 .material-icons {
